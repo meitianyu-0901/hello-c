@@ -8,6 +8,7 @@
 - `debug.c`：调试练习，for 循环把 1 到 5 累加，每轮打印 i 与 sum。
 - `.vscode/launch.json`：VS Code 调试配置，F5 靠它启动 gdb。
 - `.gitignore`：屏蔽 `*.o` 与 `*.exe`，编译产物不进仓库。
+- `size.c`：用 sizeof 查看基本类型与指针各占几个字节。
 
 ## 编译与运行
 
