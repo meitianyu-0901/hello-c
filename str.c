@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    char s[] = "hello";
+    char s[] = "coding";
     char dst[20];
 
     printf("sizeof(s) = %d\n", (int)sizeof(s));
